@@ -1,0 +1,185 @@
+RESPOSTAS DA ATIVIDADE DE LÓGICA 
+ QUESTÃO 1 - Passo 1: pegar a escada
+Passo 2: posicionar a escada embaixo da lâmpada
+Passo 3: subir na escada
+Passo 4: retirar a lâmpada velha
+Passo 5: descer da escada
+Passo 6: buscar a lâmpada reserva
+Passo 7: subir novamente na escada
+Passo 8: colocar a lâmpada de reserva
+
+QUESTÃO 2 - Passo 1: fatorar 36 = 2² × 3²
+Passo 2: fatorar 60 = 2² × 3 × 5
+Passo 3: identificar os fatores comuns: 2² × 3
+Passo 4: multiplicar os fatores comuns: 4 × 3 = 12
+Resultado: O MDC é 12
+
+QUESTÃO 3 - Passo 1: Levar o bode
+Passo 2: Voltar sozinho
+Passo 3: Levar o lobo
+Passo 4: Voltar com o bode
+Passo 5: Levar a alfafa
+Passo 6: Voltar sozinho
+Passo 7: Levar o bode
+
+QUESTÃO 4 - Passo 1: Levar 2 canibais
+Passo 2: Volta 1 canibal
+Passo 3: Levar 2 canibais
+Passo 4: Volta 1 canibal
+Passo 5: Levar 2 jesuítas
+Passo 6: Volta 1 jesuíta e 1 canibal
+Passo 7: Levar 2 jesuítas
+Passo 8: Volta 1 canibal
+Passo 9: Levar 2 canibais
+
+ QUESTÃO 5 - Passo 1: Mover disco 1 de A para C
+Passo 2: Mover disco 2 de A para B
+Passo 3: Mover disco 1 de C para B
+Passo 4: Mover disco 3 de A para C
+Passo 5: Mover disco 1 de B para A
+Passo 6: Mover disco 2 de B para C
+Passo 7: Mover disco 1 de A para C
+
+
+QUESTÃO 6 -  Passo 1: Sra. Amanda não entra no elevador
+Passo 2: Sra. Camila comprou a gravata
+Passo 3: Gravata foi no segundo andar
+Passo 4: Bete recebeu bolsa no dia seguinte = bolsa não foi comprada por ela
+Passo 5: Outra mulher deu a bolsa, essa saiu no segundo andar com Bete = Camila
+Passo 6: Elisa foi a sexta pessoa a sair = foi ao sexto andar
+Passo 7: Livros vendidos no térreo = Amanda
+Passo 8: Filomena saiu no 5º com candelabro
+Resultado:
+Amanda: livro (térreo)
+Bete: chapéu (3º andar)
+Camila: bolsa (2º andar)
+Divina: vestido (4º andar)
+Elisa: gravata (6º andar)
+Filomena: candelabro (5º andar)
+
+
+QUESTÃO 7 - Passo 1: Encher C (3L)
+Passo 2: Passar C para B (B=3L)
+Passo 3: Encher C novamente
+Passo 4: Passar 2L de C para B (B=5L), sobra 1L em C
+Passo 5: Esvaziar B
+Passo 6: Passar 1L de C para B (B=1L)
+Passo 7: Encher C
+Passo 8: Passar C para B (B=4L)
+Passo 9: Repetir processo com A até ficar com 4L
+
+
+QUESTÃO 8 - Passo 1: João ensaia com violoncelista => João não é violoncelista
+Passo 2: Antônio ≠ pianista
+Passo 3: Francisco = pianista
+Passo 4: João ≠ pianista, ≠ violoncelista => João = harpista
+Passo 5: Francisco = pianista => Antônio = violoncelista
+Resultado:
+João: harpa
+Antônio: violonceloRESPOSTAS DA ATIVIDADE DE LÓGICA 
+ QUESTÃO 1 - Passo 1: pegar a escada
+Passo 2: posicionar a escada embaixo da lâmpada
+Passo 3: subir na escada
+Passo 4: retirar a lâmpada velha
+Passo 5: descer da escada
+Passo 6: buscar a lâmpada reserva
+Passo 7: subir novamente na escada
+Passo 8: colocar a lâmpada de reserva
+
+QUESTÃO 2 - Passo 1: fatorar 36 = 2² × 3²
+Passo 2: fatorar 60 = 2² × 3 × 5
+Passo 3: identificar os fatores comuns: 2² × 3
+Passo 4: multiplicar os fatores comuns: 4 × 3 = 12
+Resultado: O MDC é 12
+
+QUESTÃO 3 - Passo 1: Levar o bode
+Passo 2: Voltar sozinho
+Passo 3: Levar o lobo
+Passo 4: Voltar com o bode
+Passo 5: Levar a alfafa
+Passo 6: Voltar sozinho
+Passo 7: Levar o bode
+
+QUESTÃO 4 - Passo 1: Levar 2 canibais
+Passo 2: Volta 1 canibal
+Passo 3: Levar 2 canibais
+Passo 4: Volta 1 canibal
+Passo 5: Levar 2 jesuítas
+Passo 6: Volta 1 jesuíta e 1 canibal
+Passo 7: Levar 2 jesuítas
+Passo 8: Volta 1 canibal
+Passo 9: Levar 2 canibais
+
+ QUESTÃO 5 - Passo 1: Mover disco 1 de A para C
+Passo 2: Mover disco 2 de A para B
+Passo 3: Mover disco 1 de C para B
+Passo 4: Mover disco 3 de A para C
+Passo 5: Mover disco 1 de B para A
+Passo 6: Mover disco 2 de B para C
+Passo 7: Mover disco 1 de A para C
+
+
+QUESTÃO 6 -  Passo 1: Sra. Amanda não entra no elevador
+Passo 2: Sra. Camila comprou a gravata
+Passo 3: Gravata foi no segundo andar
+Passo 4: Bete recebeu bolsa no dia seguinte = bolsa não foi comprada por ela
+Passo 5: Outra mulher deu a bolsa, essa saiu no segundo andar com Bete = Camila
+Passo 6: Elisa foi a sexta pessoa a sair = foi ao sexto andar
+Passo 7: Livros vendidos no térreo = Amanda
+Passo 8: Filomena saiu no 5º com candelabro
+Resultado:
+Amanda: livro (térreo)
+Bete: chapéu (3º andar)
+Camila: bolsa (2º andar)
+Divina: vestido (4º andar)
+Elisa: gravata (6º andar)
+Filomena: candelabro (5º andar)
+
+
+QUESTÃO 7 - Passo 1: Encher C (3L)
+Passo 2: Passar C para B (B=3L)
+Passo 3: Encher C novamente
+Passo 4: Passar 2L de C para B (B=5L), sobra 1L em C
+Passo 5: Esvaziar B
+Passo 6: Passar 1L de C para B (B=1L)
+Passo 7: Encher C
+Passo 8: Passar C para B (B=4L)
+Passo 9: Repetir processo com A até ficar com 4L
+
+
+QUESTÃO 8 - Passo 1: João ensaia com violoncelista => João não é violoncelista
+Passo 2: Antônio ≠ pianista
+Passo 3: Francisco = pianista
+Passo 4: João ≠ pianista, ≠ violoncelista => João = harpista
+Passo 5: Francisco = pianista => Antônio = violoncelista
+Resultado:
+João: harpa
+Antônio: violoncelo
+Francisco: piano
+
+
+Questão 9 – 
+João – café
+Miguel – whisky
+Nádia – limonada
+Sílvia – vinho
+Afonso – champanhe
+Cristina – vermouth
+Geraldo – cerveja
+Júlio – chá
+Maria – vodka
+Máximo – guaraná
+Manuel – laranja
+Ivone – água
+
+
+Questão 10 – Atletismo
+Passos:
+1. Gumercindo venceu Barnabé no salto em distância → Gumercindo 1º no salto.
+2. Teodoro chegou atrás de Gumercindo no dardo → Gumercindo 2º, Teodoro 3º no dardo.
+3. Sobra Barnabé para vencer o dardo.
+4. Barnabé não venceu os 100m rasos → Teodoro venceu os 100m rasos.
+Resultado final:
+100 metros rasos: Teodoro (1º)
+Salto em distância: Gumercindo (1º)
+Arremesso de dardo: Barnabé (1º)
