@@ -1,0 +1,49 @@
+QUESTAO 3
+programa {
+  funcao inicio() {
+  //declaracao de variavel
+  real nota1, nota2, nota3, nota4, media_aritmetica
+
+  //entrada de dados
+  escreva("informe a primeira nota: ")
+  leia(nota1)
+  
+  escreva("informe a segunda nota: ")
+  leia(nota2)
+  
+  escreva("informe a terceira nota: ")
+  leia(nota3)
+  
+  escreva("informe a quarta nota: ")
+  leia(nota4)
+
+  //processamento
+  media_aritmetica=(nota1+nota2+nota3+nota4)/4
+
+  //saida de dados
+  escreva("a media aritmetica é: ", media_aritmetica)
+  }
+}
+Questão 04-
+programa {
+  funcao inicio() {
+  //declaracao de variavel
+  real mes1, mes2, mes3, media_atimetica 
+  //entrada de dados
+  escreva("informe o primeiro mes: ")
+  leia(mes1)
+  
+  escreva("informe o segundo mes : ")
+  leia(mes2)
+  
+  escreva("informe o terceiro mes : ")
+  leia(mes3)
+
+  //processamento
+  media_atimetica=(mes1+mes2+mes3)/3
+
+  //saida de dados
+  escreva("a media aritmetica é: ", media_atimetica)
+  }
+}
+
