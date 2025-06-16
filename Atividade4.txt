@@ -1,0 +1,231 @@
+Questão 1
+Letra a
+programa {
+  funcao inicio() {
+    escreva("************** \n")
+    escreva("*            *\n")
+    escreva("*            *\n")
+    escreva("*            *\n")
+    escreva("*            *\n")
+    escreva("*            *\n")
+    escreva("**************\n")
+
+    escreva("      ***   \n ")
+    escreva("  *       * \n ")
+    escreva(" *         *\n")
+    escreva("  *         *\n")
+    escreva("  *         *\n")
+    escreva("   *       * \n ")
+    escreva("      ***   \n ")
+    escreva("       *       \n")
+    escreva("       ***       \n")
+    escreva("      *****       \n")
+    escreva("     *******      \n")
+    escreva("    *********    \n")
+    escreva("        *        \n")
+    escreva("        *        \n")
+    escreva("       * *    \n")
+    escreva("      *   *  \n")
+    escreva("     *     * \n")
+    escreva("      *   *  \n")
+    escreva("       * *    \n")
+    escreva("        *        \n")
+  }
+}
+
+Letra b
+programa {
+  funcao inicio() {
+    //declaração
+    cadeia nome , sobrenome, troca, sobrenome ,nome
+    //entrada
+    escreva("informe nome: ")
+    leia(nome)
+    escreva("informe sobrenome: ")
+    leia(sobrenome) 
+    
+    //processamento
+    troca = nome 
+    nome = sobrenome
+    sobrenome = troca
+    //saida
+    escreva(" nova nomenclatura é: ", nome, sobrenome)
+  }
+}
+
+letra c
+programa {
+  funcao inicio() {
+   //declaracao de variaveis
+   inteiro n, n2, soma, subtracao, multiplicacao, divisao, resto 
+   // entrada 
+   escreva("Informe o valor do primeiro número: ")
+   leia(n)
+   escreva("Informe o valor do segundo número: ")
+   leia(n2)
+   //processamento
+   soma = n + n2 
+   subtracao = n - n2 
+   multiplicacao = n * n2 
+   divisao = n / n2 
+   resto = n%n2 
+   //saida 
+   escreva("Informe o valor da soma: ", soma, "\n")
+   escreva("Informe o valor da subtração: " , subtracao, "\n")
+   escreva("Informe o valor da multiplicação: ", multiplicacao, "\n")
+   escreva("Informe o valor da divisão: ", divisao, "\n")
+   escreva("Informe o valor do resto: ", resto, "\n")
+  }
+}
+
+letra d
+programa {
+  funcao inicio() {
+// declaraçao de variaveis
+    real celsius, fahrenheit, temperatura
+
+    //entrada de dados
+    escreva("informe a temperatura em celsius: ")
+    leia(celsius)
+
+    //processamento
+    fahrenheit = (9 * celsius + 160) / 5 
+
+    //saida de dados
+    escreva(" a temperatura em fahrenhat é: ", fahrenheit)
+  }
+}
+
+letra e
+programa {
+  funcao inicio() {
+// declaraçao de variaveis
+    real celsius, fahrenheit, temperatura
+
+    //entrada de dados
+    escreva("informe a temperatura em fahrenheit: ")
+    leia(fahrenheit)
+
+    //processamento
+    celsius = ((fahrenheit - 32) * 5) / 9 
+
+    //saida de dados
+    escreva(" a temperatura em celsius é: ", celsius)
+  }
+}
+
+letra f
+programa {
+  funcao inicio() {
+// declaraçao de variaveis
+    real raio, altura, volume
+
+    //entrada de dados
+    escreva("informe o raio: ")
+    leia(raio)
+    escreva("informe a altura: ")
+    leia(altura)
+
+    //processamento
+    volume = 3.14159 * raio * altura 
+
+    //saida de dados
+    escreva("o volume é: ", volume )
+  }
+}
+
+letra g
+programa {
+  funcao inicio() {
+//DECLARAÇÃO
+real reais, dolar, euro 
+//ENTRADA
+escreva("Informe o valor em reais: ")
+leia(reais)
+//PROCESSAMENTO
+dolar = reais / 5.54
+euro = dolar / 0.86 
+//SAIDA
+escreva("Dolar em bolso: ", dolar)
+escreva("Euro em bolso: ", euro)
+
+  }
+}
+
+letra h
+programa {
+  funcao inicio() {
+
+//DECLARAÇÃO
+real reais,reais_dolar, reais_euro,reais_libras,dolar, euro, libras,saldo_final
+
+//ENTRADA
+escreva("Informe o valor em reais: ")
+leia(reais)
+escreva("informe o valor gasto em dolar: ")
+leia(dolar)
+escreva("informe o valor gasto em euro: ")
+leia(euro)
+escreva("informe o valor gasto em libras: ")
+leia(libras)
+//PROCESSAMENTO
+reais_dolar  = dolar * 5.54
+reais_euro = euro * 0.86 
+reais_libras= libras * 7.54
+saldo_final = reais - reais_dolar+reais_euro+reais_libras
+//SAIDA
+escreva("Valor restante em reais: ", saldo_final)
+
+  }
+}
+
+letra i
+programa {
+  funcao inicio() {
+    //Declaração de variavéis 
+    cadeia nome, cnpj, endereco, telefone, email, data_orcamento
+
+    //Exibição do cabeçalho 
+    escreva("----------------------------------\n")
+    escreva("       Holerite de orçamento      \n")
+    escreva("----------------------------------\n")
+    escreva("Nome da empresa: ", nome, "\n")
+    leia(nome)
+    escreva("Endereço: ", endereco, "\n")
+    leia(endereco)
+    escreva("Telefone: ", telefone, "\n")
+    leia(telefone)
+    escreva("E-mail: ", email, "\n")
+    leia(email)
+    escreva("Data: ", data_orcamento, "\n")
+    leia(data_orcamento)
+
+    //Tabela de descrição dos itens
+    escreva("----------------------------------------------------------------------\n")
+    escreva("|Descrição                  \      |   Qtd   \|    Preço    \| Total(R$)|", "\n")
+    escreva("|                                 |         | Unitário(R$)|          |", "\n")
+    escreva("|---------------------------------|---------|-------------|----------|\n")
+    escreva("|Notebook Lenovo IdeaPad 3", "        |    1   ", " |   3200.00  " ," |  3200.00 |", "\n")
+    escreva("|Impressora HP LaserJet Pro", "       |    1   ", " |  1100.00", "    |  1100.00 |", "\n")
+    escreva("|Pacote de papel A4 500fls", "        |    5   ", " |   35.00", "     |   175.00 |", "\n")
+    escreva("|Licença MS Office 365 (anual)", "    |    1  ", "  |   420.00 ", "   |   420.00 |", "\n")
+    escreva("|Serviço de Instalação de Software", "|    1  ", "  |   150.00 ", "   |   150.00 |", "\n")
+    escreva("|---------------------------------------------------------|----------|\n")
+    escreva("|                                             Total Geral:|5045.00   |", "\n")
+    escreva("----------------------------------------------------------------------\n")
+
+    //Observações 
+    escreva("                                                  \n")
+    escreva("Observações:                                      \n")
+    escreva("Orçamento válido por 10 dias úteis.", "\n")
+    escreva("Valores sujeitos à disponibilidade em estoque.", "\n")
+    escreva("Pagamento via transferência bancária ou PIX.", "\n")
+
+    //Assinatura
+    escreva("                                                        \n")
+    escreva("Responsável pelo orçamento: João Silva Vendas Corporativas", "\n")
+    escreva("Assinatura: ")
+  }
+}
+
+
