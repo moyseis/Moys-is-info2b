@@ -138,16 +138,18 @@ letra g
 programa {
   funcao inicio() {
 //DECLARAÇÃO
-real reais, dolar, euro 
+real reais, dolar, euro, libra
 //ENTRADA
 escreva("Informe o valor em reais: ")
 leia(reais)
 //PROCESSAMENTO
 dolar = reais / 5.54
 euro = dolar / 0.86 
+libra= euro/7.45
 //SAIDA
 escreva("Dolar em bolso: ", dolar)
 escreva("Euro em bolso: ", euro)
+escreva("libra em bolso:",libra)
 
   }
 }
